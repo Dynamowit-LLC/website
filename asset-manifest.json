@@ -1,23 +1,23 @@
 {
-  "main.css": "/static/css/main.39abf354.chunk.css",
-  "main.js": "/static/js/main.90c2f12d.chunk.js",
-  "main.js.map": "/static/js/main.90c2f12d.chunk.js.map",
-  "static/js/1.c6995a2a.chunk.js": "/static/js/1.c6995a2a.chunk.js",
-  "static/js/1.c6995a2a.chunk.js.map": "/static/js/1.c6995a2a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.png": "/static/media/logo.3bebe3c9.png",
-  "static/media/hero-img.png": "/static/media/hero-img.fdff2e0c.png",
-  "static/media/about.jpg": "/static/media/about.8fd6b28b.jpg",
-  "static/media/building.svg": "/static/media/building.9f9eb918.svg",
-  "static/media/bank.svg": "/static/media/bank.c7f845ea.svg",
-  "static/media/cloud.svg": "/static/media/cloud.fd423b70.svg",
-  "static/media/database.svg": "/static/media/database.a1925f78.svg",
-  "static/media/map-pin.svg": "/static/media/map-pin.9c0a6537.svg",
-  "static/media/mail.svg": "/static/media/mail.c8d803d8.svg",
-  "static/media/phone-call.svg": "/static/media/phone-call.85e01113.svg",
-  "static/css/main.39abf354.chunk.css.map": "/static/css/main.39abf354.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.9a7a1c263d5374fd9725a79eb3ddd8bc.js": "/precache-manifest.9a7a1c263d5374fd9725a79eb3ddd8bc.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.e98ae6f8.css",
+    "main.js": "/static/js/main.31395b1f.js",
+    "static/media/hero-img.png": "/static/media/hero-img.593960b6732e1ce54f2b.png",
+    "static/media/about.jpg": "/static/media/about.8e0b1ae8a5c9ea47e0c8.jpg",
+    "static/media/logo.png": "/static/media/logo.b5e053f2c63536a42527.png",
+    "static/media/phone-call.svg": "/static/media/phone-call.95d975aa6b70d600eb148f76780a6d6b.svg",
+    "static/media/cloud.svg": "/static/media/cloud.a799ec79fbe2e4a3bd7eabe3c037b810.svg",
+    "static/media/database.svg": "/static/media/database.55fcf071fd5297a074df47ed99a0145e.svg",
+    "index.html": "/index.html",
+    "static/media/building.svg": "/static/media/building.28d813a4a2a82f0e9bfc610d1b6f73d6.svg",
+    "static/media/bank.svg": "/static/media/bank.f7f273de8e29a29296db49d9ad6b7f07.svg",
+    "static/media/map-pin.svg": "/static/media/map-pin.1587e9bab68d054d6fd5c9d69a2d1c14.svg",
+    "static/media/mail.svg": "/static/media/mail.6fcb6fc96259478f2edc624fb0757b4d.svg",
+    "main.e98ae6f8.css.map": "/static/css/main.e98ae6f8.css.map",
+    "main.31395b1f.js.map": "/static/js/main.31395b1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e98ae6f8.css",
+    "static/js/main.31395b1f.js"
+  ]
 }
